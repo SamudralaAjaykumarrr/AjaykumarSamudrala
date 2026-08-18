@@ -8,6 +8,7 @@ I build production-oriented software with Python, Go, AWS, REST APIs, SQL, distr
 
 ### DelegationProof v1.0.0
 
+
 Deterministic static analyzer for delegated authority risks in agentic systems.
 
 DelegationProof analyzes declared delegation graphs and detects:
