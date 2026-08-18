@@ -7,6 +7,7 @@ I build production-oriented software with Python, Go, AWS, REST APIs, SQL, distr
 ## Featured Project
 
 ### DelegationProof v1.0.0
+<img width="1280" height="640" alt="DelegationProof_GitHub_Social_Preview_1280x640" src="https://github.com/user-attachments/assets/a05404f2-e43d-4682-ac96-116d00d7084e" />
 
 
 Deterministic static analyzer for delegated authority risks in agentic systems.
