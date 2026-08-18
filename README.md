@@ -45,4 +45,5 @@ I'm especially interested in backend, platform, cloud, security, and developer-t
 
 ## Connect
 
-LinkedIn: [add your LinkedIn profile URL here]
+LinkedIn: https://www.linkedin.com/in/ajay-samudrala-ba089642a
+Email:samudralaajay663@gmail.com
