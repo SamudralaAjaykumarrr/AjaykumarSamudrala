@@ -1,4 +1,3 @@
-# AjaykumarSamudrala
 # Hi, I'm Ajay Samudrala
 
 Software Engineer focused on backend systems, cloud infrastructure, security, and developer tooling.
